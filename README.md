@@ -12,8 +12,8 @@ This is a simple demo project for my self to play around with the [Microsoft Cog
 ## How it looks
 
 <div style="text-align:center">
-	<a href="https://github.com/tscholze/swift-cognitive-services-computer-vision-demo/blob/master/docs/screenshot.png">
-		<img src="https://github.com/tscholze/swift-cognitive-services-computer-vision-demo/blob/master/docs/screenshot.png" height="300px" />
+	<a href="https://github.com/tscholze/swift-cognitive-services-computer-vision-demo/blob/master/docs/screenshot.PNG">
+		<img src="https://github.com/tscholze/swift-cognitive-services-computer-vision-demo/blob/master/docs/screenshot.PNG" height="300px" />
 	</a>
 </div>
 
